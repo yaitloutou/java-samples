@@ -11,6 +11,6 @@ package io.yaitloutou.java.samples.maven.hellomaven;
  */
 public class HelloMaven {
     public static void main(String[] args) {
-        System.out.println("Hello Maven");
+        System.out.println("Check the POM");
     }
 }
