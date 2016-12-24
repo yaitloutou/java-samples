@@ -15,6 +15,7 @@ ref:
 
 ###-XX:+UseCompressedOops
 TODO
+
 ref: 
 * http://javarevisited.blogspot.com/2012/06/what-is-xxusecompressedoops-in-64-bit.html
 * [Oracle doc: compressed oops](http://docs.oracle.com/javase/7/docs/technotes/guides/vm/performance-enhancements-7.html)
