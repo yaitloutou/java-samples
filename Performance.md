@@ -20,3 +20,9 @@ ref:
 * http://javarevisited.blogspot.com/2012/06/what-is-xxusecompressedoops-in-64-bit.html
 * [Oracle doc: compressed oops](http://docs.oracle.com/javase/7/docs/technotes/guides/vm/performance-enhancements-7.html)
 
+
+### other links:
+
+* http://docs.oracle.com/cd/E13150_01/jrockit_jvm/jrockit/geninfo/diagnos/garbage_collect.html
+* https://plumbr.eu/blog/memory-leaks/how-much-memory-do-i-need-part-3-measure-dont-guess
+* http://trove.starlight-systems.com/
